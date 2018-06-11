@@ -77,6 +77,8 @@
 			<referrerUrl />
 			<referrerSearchEngineUrl />
 			<referrerSearchEngineIcon />
+			<referrerSocialNetworkUrl />
+			<referrerSocialNetworkIcon />
 			<languageCode />
 			<language>Unknown</language>
 			<deviceType>Unknown</deviceType>
@@ -193,6 +195,8 @@
 			<referrerUrl />
 			<referrerSearchEngineUrl />
 			<referrerSearchEngineIcon />
+			<referrerSocialNetworkUrl />
+			<referrerSocialNetworkIcon />
 			<languageCode />
 			<language>Unknown</language>
 			<deviceType>Unknown</deviceType>
@@ -309,6 +313,8 @@
 			<referrerUrl />
 			<referrerSearchEngineUrl />
 			<referrerSearchEngineIcon />
+			<referrerSocialNetworkUrl />
+			<referrerSocialNetworkIcon />
 			<languageCode />
 			<language>Unknown</language>
 			<deviceType>Unknown</deviceType>
@@ -425,6 +431,8 @@
 			<referrerUrl />
 			<referrerSearchEngineUrl />
 			<referrerSearchEngineIcon />
+			<referrerSocialNetworkUrl />
+			<referrerSocialNetworkIcon />
 			<languageCode />
 			<language>Unknown</language>
 			<deviceType>Unknown</deviceType>
@@ -541,6 +549,8 @@
 			<referrerUrl />
 			<referrerSearchEngineUrl />
 			<referrerSearchEngineIcon />
+			<referrerSocialNetworkUrl />
+			<referrerSocialNetworkIcon />
 			<languageCode />
 			<language>Unknown</language>
 			<deviceType>Unknown</deviceType>
@@ -657,6 +667,8 @@
 			<referrerUrl />
 			<referrerSearchEngineUrl />
 			<referrerSearchEngineIcon />
+			<referrerSocialNetworkUrl />
+			<referrerSocialNetworkIcon />
 			<languageCode />
 			<language>Unknown</language>
 			<deviceType>Unknown</deviceType>
@@ -773,6 +785,8 @@
 			<referrerUrl />
 			<referrerSearchEngineUrl />
 			<referrerSearchEngineIcon />
+			<referrerSocialNetworkUrl />
+			<referrerSocialNetworkIcon />
 			<languageCode />
 			<language>Unknown</language>
 			<deviceType>Unknown</deviceType>
@@ -889,6 +903,8 @@
 			<referrerUrl />
 			<referrerSearchEngineUrl />
 			<referrerSearchEngineIcon />
+			<referrerSocialNetworkUrl />
+			<referrerSocialNetworkIcon />
 			<languageCode />
 			<language>Unknown</language>
 			<deviceType>Unknown</deviceType>
@@ -1005,6 +1021,8 @@
 			<referrerUrl />
 			<referrerSearchEngineUrl />
 			<referrerSearchEngineIcon />
+			<referrerSocialNetworkUrl />
+			<referrerSocialNetworkIcon />
 			<languageCode />
 			<language>Unknown</language>
 			<deviceType>Unknown</deviceType>
@@ -1121,6 +1139,8 @@
 			<referrerUrl />
 			<referrerSearchEngineUrl />
 			<referrerSearchEngineIcon />
+			<referrerSocialNetworkUrl />
+			<referrerSocialNetworkIcon />
 			<languageCode />
 			<language>Unknown</language>
 			<deviceType>Unknown</deviceType>
@@ -1237,6 +1257,8 @@
 			<referrerUrl />
 			<referrerSearchEngineUrl />
 			<referrerSearchEngineIcon />
+			<referrerSocialNetworkUrl />
+			<referrerSocialNetworkIcon />
 			<languageCode />
 			<language>Unknown</language>
 			<deviceType>Unknown</deviceType>
@@ -1353,6 +1375,8 @@
 			<referrerUrl />
 			<referrerSearchEngineUrl />
 			<referrerSearchEngineIcon />
+			<referrerSocialNetworkUrl />
+			<referrerSocialNetworkIcon />
 			<languageCode />
 			<language>Unknown</language>
 			<deviceType>Unknown</deviceType>
@@ -1469,6 +1493,8 @@
 			<referrerUrl />
 			<referrerSearchEngineUrl />
 			<referrerSearchEngineIcon />
+			<referrerSocialNetworkUrl />
+			<referrerSocialNetworkIcon />
 			<languageCode />
 			<language>Unknown</language>
 			<deviceType>Unknown</deviceType>
@@ -1585,6 +1611,8 @@
 			<referrerUrl />
 			<referrerSearchEngineUrl />
 			<referrerSearchEngineIcon />
+			<referrerSocialNetworkUrl />
+			<referrerSocialNetworkIcon />
 			<languageCode />
 			<language>Unknown</language>
 			<deviceType>Unknown</deviceType>
@@ -1701,6 +1729,8 @@
 			<referrerUrl />
 			<referrerSearchEngineUrl />
 			<referrerSearchEngineIcon />
+			<referrerSocialNetworkUrl />
+			<referrerSocialNetworkIcon />
 			<languageCode />
 			<language>Unknown</language>
 			<deviceType>Unknown</deviceType>
@@ -1817,6 +1847,8 @@
 			<referrerUrl />
 			<referrerSearchEngineUrl />
 			<referrerSearchEngineIcon />
+			<referrerSocialNetworkUrl />
+			<referrerSocialNetworkIcon />
 			<languageCode />
 			<language>Unknown</language>
 			<deviceType>Unknown</deviceType>
@@ -1933,6 +1965,8 @@
 			<referrerUrl />
 			<referrerSearchEngineUrl />
 			<referrerSearchEngineIcon />
+			<referrerSocialNetworkUrl />
+			<referrerSocialNetworkIcon />
 			<languageCode />
 			<language>Unknown</language>
 			<deviceType>Unknown</deviceType>
@@ -2049,6 +2083,8 @@
 			<referrerUrl />
 			<referrerSearchEngineUrl />
 			<referrerSearchEngineIcon />
+			<referrerSocialNetworkUrl />
+			<referrerSocialNetworkIcon />
 			<languageCode />
 			<language>Unknown</language>
 			<deviceType>Unknown</deviceType>
@@ -2165,6 +2201,8 @@
 			<referrerUrl />
 			<referrerSearchEngineUrl />
 			<referrerSearchEngineIcon />
+			<referrerSocialNetworkUrl />
+			<referrerSocialNetworkIcon />
 			<languageCode />
 			<language>Unknown</language>
 			<deviceType>Unknown</deviceType>
@@ -2281,6 +2319,8 @@
 			<referrerUrl />
 			<referrerSearchEngineUrl />
 			<referrerSearchEngineIcon />
+			<referrerSocialNetworkUrl />
+			<referrerSocialNetworkIcon />
 			<languageCode />
 			<language>Unknown</language>
 			<deviceType>Unknown</deviceType>
